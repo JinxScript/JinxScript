@@ -2,7 +2,7 @@
 
 Skills 💻					
 
-<img src="https://skillicons.dev/icons?i=git,js,react,java,cpp"/>
+<img src="https://skillicons.dev/icons?i=git,js,figma,react,java,cpp"/>
 
 
 
