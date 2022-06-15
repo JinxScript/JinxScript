@@ -19,6 +19,7 @@
 <p align = "center">
 **Skills** 💻					
 </br>
+</br>
 <img src="https://skillicons.dev/icons?i=git,js,figma,react,java,cpp" align="center"/>
 
 </p>
