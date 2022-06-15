@@ -12,10 +12,10 @@
 
 💻*I like programming* </br>
 🎹 *I am good at playing the piano*
-
+<p align = "center">
 **Skills** 💻					
 
 <img src="https://skillicons.dev/icons?i=git,js,figma,react,java,cpp" align="center"/>
 
-
+</p>
 
