@@ -7,14 +7,18 @@
   &#8287;&#8287;&#8287;&#8287;&#8287;
 </p>
 
-<br/>
-
+</br>
+<h4>
 
 💻*I like programming* </br>
 🎹 *I am good at playing the piano*
+
+</h4>
+</br>
+
 <p align = "center">
 **Skills** 💻					
-
+</br>
 <img src="https://skillicons.dev/icons?i=git,js,figma,react,java,cpp" align="center"/>
 
 </p>
