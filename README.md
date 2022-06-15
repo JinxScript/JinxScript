@@ -15,7 +15,7 @@
 
 **Skills** 💻					
 
-<img src="https://skillicons.dev/icons?i=git,js,figma,react,java,cpp" align="center"/>
+<img src="https://skillicons.dev/icons?i=git,js,figma,react,java,cpp" class="center"/>
 
 
 
