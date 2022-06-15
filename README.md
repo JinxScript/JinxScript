@@ -10,12 +10,12 @@
 </br>
 <h4>
 
-💻*I like programming* </br>
-🎹 *I am good at playing the piano*
+💻I like programming </br>
+🎹 I am good at playing the piano
 
 </h4>
 </br>
-<h3 align = "centre">Skills 💻</h3>
+<h3 align = "center">Skills 💻</h3>
 <p align = "center">
 </br>
 </br>
