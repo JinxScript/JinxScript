@@ -11,7 +11,7 @@
 
 </h3>
 </br>
-<h2 align = "center">Skills 💻</h3>
+<h2 align = "center">Skills 💻</h2>
 <p align = "center">
 </br>
 </br>
@@ -19,3 +19,5 @@
 
 </p>
 
+
+<h2 align = "center"> My Projects 📁</h2>
