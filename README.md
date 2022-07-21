@@ -11,13 +11,12 @@
 
 </h3>
 </br>
-<h2 align = "center">Skills 💻</h2>
-<p align = "center">
+  <h2 align = "center">Skills 💻</h2>
+  <p align = "center">
 </br>
 </br>
-<img src="https://skillicons.dev/icons?i=git,js,figma,react,java,cpp" align="center"/>
-
+      <img src="https://skillicons.dev/icons?i=git,js,figma,react,java,cpp" align="center"/>
 </p>
-
+</br>
 
 <h2 align = "center"> My Projects 📁</h2>
