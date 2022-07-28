@@ -4,7 +4,10 @@
 </h1>
 
 </br>
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&lines=I+like+C%2B%2B+and+JAVA)](https://git.io/typing-svg)
+
+ [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&lines=I+like+C%2B%2B+and+JAVA)](https://git.io/typing-svg)
+
+
 <h3>
 
 💻I like programming </br>
