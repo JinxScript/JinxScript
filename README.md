@@ -19,7 +19,7 @@
   <p align = "center">
 </br>
 </br>
-      <img src="https://skillicons.dev/icons?i=git,js,figma,react,java,cpp" align="center"/>
+      <img src="https://skillicons.dev/icons?i=git,dart,js,figma,react,java,cpp" align="center"/>
 </p>
 </br>
 
