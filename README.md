@@ -15,4 +15,4 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jinxscript&show_icons=true&locale=en&layout=compact" alt="jinxscript" /></p>
 
-<h2 align = "center"> My Projects 📁</h2>
+<h2 align = "center"> My Repositories  📁</h2>
