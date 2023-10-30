@@ -16,8 +16,4 @@
  <p align="left"> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> </p>
 </p>
 
-
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jinxscript&show_icons=true&locale=en&layout=compact" alt="jinxscript" /></p>
-
 <h2 align = "center"> My Repositories  📁</h2>
