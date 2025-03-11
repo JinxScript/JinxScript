@@ -2,6 +2,7 @@
 <p align = "center"
 <p align = "center">💻 I’m currently studying Bsc Computer Science and Software Engineering </p>
 <p  align = "center">💬 I am interested in learning about embedded systems and Machine Learning.</p>
+<p  align = "center">💹 Gen Z degen quant and Crypto Trader.</p>
 </p>  
 <br>
 <h3 align="center">My Links</h3>
